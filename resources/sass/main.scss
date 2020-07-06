@@ -1,0 +1,18 @@
+// Fonts
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+//materialize
+@import '~materialize-css/sass/materialize.scss';
+
+@media only screen and (max-width: 992px){
+    main{
+        padding-top: 60px !important;
+    }
+}
+
+.qr-container img{
+    margin: auto !important;
+}
+.datepicker-date-display{
+    background-color: #0D47A1;
+}
